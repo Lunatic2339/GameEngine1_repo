@@ -44,17 +44,17 @@ TagManager:
   - name: Background
     uniqueID: 1409347755
     locked: 0
-  - name: Midground
+  - name: Enviornment
     uniqueID: 4267316061
     locked: 0
-  - name: Environments
+  - name: Things
     uniqueID: 1608743851
     locked: 0
-  - name: Things
-    uniqueID: 1235202349
-    locked: 0
-  - name: Characters
+  - name: Character
     uniqueID: 1095388025
+    locked: 0
+  - name: Effects
+    uniqueID: 513218423
     locked: 0
   m_RenderingLayers:
   - Default
