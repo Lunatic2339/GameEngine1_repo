@@ -2483,7 +2483,7 @@ GameObject:
   - component: {fileID: 1362563082}
   - component: {fileID: 1362563081}
   m_Layer: 0
-  m_Name: middle
+  m_Name: Mountain2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
