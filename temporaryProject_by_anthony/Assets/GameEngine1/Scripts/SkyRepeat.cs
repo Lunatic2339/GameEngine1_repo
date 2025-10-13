@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class SkyRepeat : MonoBehaviour
 {
@@ -29,3 +29,4 @@ public class SkyRepeat : MonoBehaviour
         transform.position = startPos + Vector3.left * newPos;
     }
 }
+*/
